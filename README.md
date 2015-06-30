@@ -1,2 +1,2 @@
 # posmodels
-PoS models and simulations
+T-SQL PoS models and simulations
